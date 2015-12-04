@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1449161088 source:/home/texs/Documents/c++-pruebas/ProyectoDiscretas/main.cpp
+	<SFML/Graphics.hpp>
+	<Objeto.h>
+	<Personaje.h>
+	<Mapa.h>
+
+1448684301 source:/home/texs/Documents/c++-pruebas/ProyectoDiscretas/src/Objeto.cpp
+	"Objeto.h"
+
+1449109998 /home/texs/Documents/c++-pruebas/ProyectoDiscretas/include/Objeto.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+
+1449162131 source:/home/texs/Documents/c++-pruebas/ProyectoDiscretas/src/Personaje.cpp
+	"Personaje.h"
+
+1449159514 /home/texs/Documents/c++-pruebas/ProyectoDiscretas/include/Personaje.h
+	<Objeto.h>
+	<Proyectil.h>
+
+1448725707 /home/texs/Documents/c++-pruebas/ProyectoDiscretas/include/Mapa.h
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1448725726 source:/home/texs/Documents/c++-pruebas/ProyectoDiscretas/src/Mapa.cpp
+	"Mapa.h"
+	<vector>
+
+1449106682 source:/home/texs/Documents/c++-pruebas/ProyectoDiscretas/src/Proyectil.cpp
+	"Proyectil.h"
+
+1449106558 /home/texs/Documents/c++-pruebas/ProyectoDiscretas/include/Proyectil.h
+	"Objeto.h"
+
